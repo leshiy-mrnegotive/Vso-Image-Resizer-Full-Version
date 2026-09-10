@@ -1,0 +1,1 @@
+# Vso-Image-Resizer-Full-Version
