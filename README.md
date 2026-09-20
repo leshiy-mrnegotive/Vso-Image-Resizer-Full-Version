@@ -233,4 +233,4 @@ This repository serves as the official landing page for VSO Image Resizer. The s
 **Get the most recent version of VSO Image Resizer today!**
 
 ---
-**Last updated:** 2026-09-20 18:03:23 UTC
+**Last updated:** 2026-09-20 21:13:40 UTC
